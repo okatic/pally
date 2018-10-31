@@ -42,7 +42,8 @@ footer {
   width: auto;
   font-family: "Space Mono", monospace, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   z-index: 1;
-  position: relative; }
+  position: relative;
+  overflow: hidden; }
 
 .container-video {
   margin-bottom: 80px;
@@ -68,7 +69,8 @@ footer {
   padding-left: auto;
   padding-right: auto;
   transform: skewY(12deg);
-  z-index: 2; }
+  z-index: 2;
+  overflow: hidden; }
 
 .container-text-manifesto {
   max-height: 625px;
