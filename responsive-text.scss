@@ -1,0 +1,87 @@
+//Responsive text for hero and very large headers
+
+@media (min-width: 400px) {
+  .responsive-text-header {
+    font-size: 26pt;
+  }
+}
+
+@media (min-width: 768px) {
+  .responsive-text-header {
+    font-size: 28pt;
+  }
+}
+@media (min-width: 992px) {
+  .responsive-text-header {
+    font-size: 32pt;
+  }
+}
+@media (min-width: 1200px) {
+  .responsive-text-header {
+    font-size: 32pt;
+  }
+}
+@media (min-width: 1400px) {
+  .responsive-text-header {
+    font-size: 45pt;
+  }
+}
+
+//
+// Responsive text for secondary titles and lead text
+
+@media (min-width: 400px) {
+  .responsive-text-secondary {
+    font-size: 18pt;
+  }
+}
+
+@media (min-width: 768px) {
+  .responsive-text-secondary {
+    font-size: 18pt;
+  }
+}
+@media (min-width: 992px) {
+  .responsive-text-secondary {
+    font-size: 20pt;
+  }
+}
+@media (min-width: 1200px) {
+  .responsive-text-secondary {
+    font-size: 22pt;
+  }
+}
+@media (min-width: 1400px) {
+  .responsive-text-secondary {
+    font-size: 26pt;
+  }
+}
+
+//Responsive text for text and bulky content
+
+@media (min-width: 400px) {
+  .responsive-text-paragraph {
+    font-size: 13pt;
+  }
+}
+
+@media (min-width: 768px) {
+  .responsive-text-paragraph {
+    font-size: 13pt;
+  }
+}
+@media (min-width: 992px) {
+  .responsive-text-paragraph {
+    font-size: 16pt;
+  }
+}
+@media (min-width: 1200px) {
+  .responsive-text-paragraph {
+    font-size: 16pt;
+  }
+}
+@media (min-width: 1400px) {
+  .responsive-text-paragraph {
+    font-size: 18pt;
+  }
+}
