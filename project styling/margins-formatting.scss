@@ -1,0 +1,42 @@
+.margin {
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.margin-top {
+  margin-top: 50px;
+}
+
+.margin-bottom {
+  margin-bottom: 50px;
+}
+
+.margin-bottom-medium {
+  margin-bottom: 20px;
+}
+
+.margin-left {
+  margin-left: 10%;
+}
+
+.center-block {
+  display: table;
+  margin: auto;
+}
+
+.partner-format {
+  max-width: 75%;
+}
+
+.padding-all {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.underline-on-hover:hover {
+  text-decoration: underline;
+}

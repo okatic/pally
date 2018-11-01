@@ -1,0 +1,57 @@
+//Responsive text for squared blocks, images and shapes
+
+@media (min-width: 300px) {
+  .responsive-block {
+    width: 80%;
+  }
+}
+
+@media (min-width: 768px) {
+  .responsive-block {
+    width: 90%;
+  }
+}
+@media (min-width: 992px) {
+  .responsive-block {
+    width: 70%;
+  }
+}
+@media (min-width: 1200px) {
+  .responsive-block {
+    width: 80%;
+  }
+}
+@media (min-width: 1400px) {
+  .responsive-block {
+    width: 70%;
+  }
+}
+
+//Responsive text for 16by9/rectangular blocks, images and shapes
+
+@media (min-width: 300px) {
+  .responsive-rectangle {
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .responsive-rectangle {
+    width: 80%;
+  }
+}
+@media (min-width: 992px) {
+  .responsive-rectangle {
+    width: 70%;
+  }
+}
+@media (min-width: 1200px) {
+  .responsive-rectangle {
+    width: 80%;
+  }
+}
+@media (min-width: 1400px) {
+  .responsive-rectangle {
+    width: 80%;
+  }
+}
