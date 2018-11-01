@@ -22,6 +22,7 @@ footer {
   font-family: "Space Mono", monospace, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   overflow: hidden;
   display: flex;
+  margin-left: 20px;
 }
 
 .margin {
@@ -75,7 +76,7 @@ footer {
 }
 
 .container-manifesto {
-  height: 950px;
+  height: 1000px;
   background-color: #F5F5F5;
   padding-top: 75px;
   padding-bottom: 50px;
@@ -90,7 +91,7 @@ footer {
 }
 
 .container-text-manifesto {
-  max-height: 625px;
+  max-height: 675px;
   background-color: transparent;
   padding-top: 0px;
   padding-bottom: 0px;

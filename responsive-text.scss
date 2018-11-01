@@ -30,9 +30,9 @@
 //
 // Responsive text for secondary titles and lead text
 
-@media (min-width: 400px) {
+@media (min-width: 300px) {
   .responsive-text-secondary {
-    font-size: 18pt;
+    font-size: 14pt;
   }
 }
 
@@ -59,7 +59,7 @@
 
 //Responsive text for text and bulky content
 
-@media (min-width: 400px) {
+@media (min-width: 300px) {
   .responsive-text-paragraph {
     font-size: 13pt;
   }

@@ -11,7 +11,8 @@ footer {
   padding-top: 100px;
   font-family: "Space Mono", monospace, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   overflow: hidden;
-  display: flex; }
+  display: flex;
+  margin-left: 20px; }
 
 .margin {
   margin-top: 50px;
@@ -59,7 +60,7 @@ footer {
   position: relative; }
 
 .container-manifesto {
-  height: 950px;
+  height: 1000px;
   background-color: #F5F5F5;
   padding-top: 75px;
   padding-bottom: 50px;
@@ -73,7 +74,7 @@ footer {
   overflow: hidden; }
 
 .container-text-manifesto {
-  max-height: 625px;
+  max-height: 675px;
   background-color: transparent;
   padding-top: 0px;
   padding-bottom: 0px;
@@ -132,9 +133,9 @@ footer {
 @media (min-width: 1400px) {
   .responsive-text-header {
     font-size: 45pt; } }
-@media (min-width: 400px) {
+@media (min-width: 300px) {
   .responsive-text-secondary {
-    font-size: 18pt; } }
+    font-size: 14pt; } }
 @media (min-width: 768px) {
   .responsive-text-secondary {
     font-size: 18pt; } }
@@ -147,7 +148,7 @@ footer {
 @media (min-width: 1400px) {
   .responsive-text-secondary {
     font-size: 26pt; } }
-@media (min-width: 400px) {
+@media (min-width: 300px) {
   .responsive-text-paragraph {
     font-size: 13pt; } }
 @media (min-width: 768px) {
