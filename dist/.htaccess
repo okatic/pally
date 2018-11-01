@@ -1,4 +1,6 @@
 AddType image/svg+xml svg
+AddType image/svg+xml svg svgz
+AddEncoding gzip svgz
 
 # Apache Server Configs v3.0.0 | MIT License
 # https://github.com/h5bp/server-configs-apache
