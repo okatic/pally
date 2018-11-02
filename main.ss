@@ -1,4 +1,4 @@
-.main-font {
+body {
   font-family: 'Space Mono', monospace; }
 
 footer {
@@ -55,21 +55,6 @@ footer {
 @media (min-width: 1400px) {
   .responsive-text-paragraph {
     font-size: 18pt; } }
-@media (min-width: 300px) {
-  .responsive-text-subnav {
-    font-size: 12pt; } }
-@media (min-width: 768px) {
-  .responsive-text-subnav {
-    font-size: 12pt; } }
-@media (min-width: 992px) {
-  .responsive-text-subnav {
-    font-size: 14pt; } }
-@media (min-width: 1200px) {
-  .responsive-text-subnav {
-    font-size: 16pt; } }
-@media (min-width: 1400px) {
-  .responsive-text-subnav {
-    font-size: 16pt; } }
 @media (min-width: 300px) {
   .responsive-block {
     width: 80%; } }
@@ -130,18 +115,6 @@ footer {
   padding-right: 25px;
   padding-bottom: 50px;
   padding-top: 50px; }
-
-.underline-on-hover:hover {
-  text-decoration: underline; }
-
-hr {
-  display: block;
-  height: 1px;
-  border: 0;
-  border-top: 1px solid #ccc;
-  margin: 1em 0;
-  padding: 0;
-  color: #4f0b9b; }
 
 .jumbotron-fluid {
   background-color: #670FCA;
@@ -226,23 +199,10 @@ hr {
   padding-left: auto;
   padding-right: auto; }
 
-.container-legal-header {
-  height: 375px;
+.container-legal {
+  height: 300px;
   padding: 20px;
   margin-top: 0px; }
-
-.container-pr-header {
-  height: 100px;
-  padding: 20px;
-  margin-top: 0px;
-  background-color: #F5F5F5; }
-
-.container-pr-content {
-  height: 100px;
-  padding: 0px;
-  margin-top: 0px;
-  background-color: ffffff;
-  max-width: 80%; }
 
 .container {
   width: 100%;
@@ -12067,4 +12027,4 @@ textarea {
   h3 {
     page-break-after: avoid; } }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=main.ss.map */
